@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honika-s&label=Profile%20views&color=0e75b6&style=flat" alt="honika-s" /> </p>
 
-- 🌱 I’m currently learning **Power Bi , Tableau**
+- 🌱 I’m currently working in Nunnari Labs as Macine learning Intern and my learnings include **Power Bi , Tableau**
 
 - 👨‍💻 All of my projects are available at [https://honika25.wixsite.com/my-site-5](https://honika25.wixsite.com/my-site-5)
 
