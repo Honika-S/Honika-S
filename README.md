@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently working in Nunnari Labs as Macine learning Intern and my learnings include **Power Bi , Tableau**
 
-- 👨‍💻 All of my projects are available at [https://honika25.wixsite.com/my-site-5](https://honika25.wixsite.com/my-site-5)
-
 - 💬 Ask me about **NLP,Ml Algorithms**
 
 - 📫 How to reach me **honikasankar@gmail.com**
