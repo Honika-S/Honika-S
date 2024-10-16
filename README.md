@@ -9,7 +9,7 @@
 - 💬 Ask me about **Natural Language Processing, Machine Learning Algorithms, Deep Learning Models, and Large Language Models**.
 - 📫 Reach me at **honikasankar@gmail.com**.
 - 📄 [Check out my CV](https://drive.google.com/file/d/13uXmQvpjMsUgb4aTV-M8SCcm9YLhcYMG/view?usp=sharing)
-
+- {My portfolio}(https://honikaportfolio.netlify.app/)
 <h3 align="left">Key Projects</h3>
 
 - 🧠 **NLP Chatbot using GPT Architecture**  
